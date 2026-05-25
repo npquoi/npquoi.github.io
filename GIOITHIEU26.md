@@ -1,6 +1,6 @@
 \newpage
 
-# Giới thiệu về tài liệu {#sec:gioi-thieu}
+# Giới thiệu về tài liệu 
 
 ## Lời nói đầu
 
