@@ -1,8 +1,3 @@
----
-output:
-  word_document: default
-  html_document: default
----
 # BÀI 8: CHỌN MÔ HÌNH VÀ KIỂM ĐỊNH CHỌN MÔ HÌNH
 
 ## MỤC TIÊU HỌC TẬP
